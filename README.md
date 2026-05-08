@@ -8,7 +8,9 @@
 
 **A pfUI fork specifically optimized for Octo which requires Nampower with optional SuperWoW and UnitXP_SP3 DLL integration.**
 
-This version includes significant performance improvements, DLL-enhanced features, and TBC spell indicators that work with Turtle WoW's expanded spell library.
+Don't expect any updates, feel free to fork and mantain.
+
+This version includes significant performance improvements, DLL-enhanced features, and TBC spell indicators that work with Octo's expanded spell library.
 
 > **Looking for TBC support?** Visit the original pfUI by Shagu: [https://github.com/shagu/pfUI](https://github.com/shagu/pfUI)
 
