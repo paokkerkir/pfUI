@@ -1,4 +1,4 @@
-# pfUI - Turtle WoW Edition
+# pfUI - Octo Edition
 
 [![Version](https://img.shields.io/badge/version-8.3.0-blue.svg)](https://github.com/paokkerkir/pfUI)
 [![OctoWoW](https://img.shields.io/badge/OctoWoW-1.17.2-brightgreen.svg)](https://octowow.st/)
@@ -6,7 +6,7 @@
 [![Nampower](https://img.shields.io/badge/Nampower-Required-purple.svg)](https://gitea.com/avitasia/nampower)
 [![UnitXP](https://img.shields.io/badge/UnitXP__SP3-Optional-yellow.svg)](https://codeberg.org/konaka/UnitXP_SP3)
 
-**A pfUI fork specifically optimized for OctoWoW which requires Nampower with optional SuperWoW and UnitXP_SP3 DLL integration.**
+**A pfUI fork specifically optimized for Octo which requires Nampower with optional SuperWoW and UnitXP_SP3 DLL integration.**
 
 This version includes significant performance improvements, DLL-enhanced features, and TBC spell indicators that work with Turtle WoW's expanded spell library.
 
